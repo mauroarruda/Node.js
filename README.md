@@ -1,4 +1,4 @@
-# Node.js-Manipula-o-CRUD-Arquivo-.JSON
+# Node.js-CRUD-JSON
 API Estruturada em Node.js, manupulação CRUD com Arquivo .JSON 
 
 Arquivo bem simples de ser entendido,

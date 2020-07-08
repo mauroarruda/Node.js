@@ -1,5 +1,5 @@
 # Node.js-CRUD-JSON
-API Estruturada em Node.js, manupulação CRUD com Arquivo .JSON 
+API Estruturada em Node.js, manupulação CRUD com Arquivo JSON 100% Javascript 
 
 Arquivo bem simples de ser entendido,
 
